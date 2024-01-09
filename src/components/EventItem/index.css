@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.event-card-item {
+  height: 30vh;
+  width: 30vw;
+  margin: 15px;
+}
+.event-img {
+  height: 100px;
+  width: 200px;
+}
+.name {
+  color: #ffffff;
+}
+.location {
+  color: #ffffff;
+  font-size: 12px;
+}
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
